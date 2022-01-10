@@ -8,6 +8,8 @@ public class Main {
         // Obtain a reference to the console
         Console con = System.console();
 
+        // jf test branch commit
+
         System.out.println("Hello world");
 
         // List of rotors to map characters. Spaces in the rotor strings should be ignored.
