@@ -9,6 +9,7 @@ public class Main {
         Console con = System.console();
 
         // jf test branch commit
+        //
 
         System.out.println("Hello world");
 
